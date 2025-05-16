@@ -1,5 +1,7 @@
 # 🧠 Simple Neural Network from Scratch (NumPy)
 
+![Simple Neural Network Diagram](/nn.png)
+
 This repository contains a minimal implementation of a **2-layer neural network** built from scratch using only **NumPy**. It demonstrates how to:
 
 * Generate and classify synthetic 2D data
